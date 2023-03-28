@@ -1,0 +1,25 @@
+.status {
+    margin-bottom: 10px;
+}
+
+.board-wrapper {
+    border: 1px solid rgba(255,255,255, .1);
+    box-shadow: rgba(0,0,0,0.19) 0px 10px 20px;
+    border-radius: 9px;
+    overflow: hidden;
+}
+
+.square {
+    background-color:#fff;
+    border: 1px solid #999;
+    float: left;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 100px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 100px;
+}
